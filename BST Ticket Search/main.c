@@ -1,5 +1,4 @@
-/* COP 3502C Assignment 5
-This program is written by: Madelyn Noth */
+/*This program is written by: Madelyn */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
