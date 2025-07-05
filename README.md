@@ -1,1 +1,1 @@
-Just a compilation of my C coding projects from my UCF classes. I was undiagnosed and unmedicated for most of these; The code was almost all likely written during manic episodes. All code is completely functional -- may not be pleasant to read.
+Just a compilation of my C coding projects from my college classes. I was undiagnosed and unmedicated for most of these; The code was almost all likely written during manic episodes. All code is completely functional -- may not be pleasant to read.
