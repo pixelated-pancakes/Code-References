@@ -1,6 +1,5 @@
-//
-// Created by Owner on 2/19/2025.
-//
+/*This program is written by: Madelyn */
+
 
 #include <stdio.h>
 #include <string.h>
